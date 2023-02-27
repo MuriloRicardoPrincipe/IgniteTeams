@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+Instalações de rotas;
+
+npm install @react-navigation/native
+
+expo install react-native-screens react-native-safe-area-context
+
+npm install @react-navigation/native-stack
+
+Instalando AsyncStorage;
+
+https://docs.expo.dev/versions/latest/sdk/async-storage/
